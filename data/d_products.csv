@@ -1,0 +1,9 @@
+product_id,product_name,type,unit_cost_usd,unit_retail_price_usd
+1,salmon,food,4,12
+2,eggs,food,8,15
+3,cookies,food,3,13
+4,cheese,food,7,11
+5,soap,non-food,3,10
+6,napkins,non-food,2,7
+7,plates,non-food,4,6
+8,ham,food,6,8
