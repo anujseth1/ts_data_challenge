@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# GitHub folders
+.github/
